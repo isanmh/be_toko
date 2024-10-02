@@ -1,1 +1,1 @@
-Backend menggunakan Express & Prisma ORM
+Backend menggunakan Express
